@@ -29,4 +29,4 @@
 - The second line of all Bash scripts should be a comment explaining what is the script doing.
 
 ## Authors & Credits
-- [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
+- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
